@@ -4,4 +4,5 @@ Hey all, congratulation on getting selected as validator node for AIT1! Please f
 - Sha 256 for genesis blob is `2dae3f54512d5be1a9697c26c2676b8f878a8023c2b6b453154df11598a548a6`
 - Waypoint is `0:fe8425ffc2351c5ef6995d3e595e21d0634a4d41c1bda4fc86ba6b121baad95d`
 - Aptos node peer ID is `d9b628e9` if you want to check your connection.
+
 Let us know if you have any questions, and looking forward to see your node coming online!
